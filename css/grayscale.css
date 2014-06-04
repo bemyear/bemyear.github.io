@@ -386,7 +386,13 @@ body {
 	float: left;
 }
 
-#bemyear-header{
+.highlight {
+  font-size:25pt;
+  font-weight: bold;
+  color: #22859c;
+}
+
+#bemyear-header {
     /*text-transform: uppercase;*/
     font-family: Arial,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-weight: 500;
